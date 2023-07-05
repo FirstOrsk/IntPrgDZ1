@@ -17,4 +17,3 @@ if (b > a)
 }
 
 Console.Write("max = {0}", max);
-// Console.WriteLine(max);
